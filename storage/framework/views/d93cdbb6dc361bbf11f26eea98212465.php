@@ -1,0 +1,2 @@
+<h2>Your post is published</h2>
+<a href="<?php echo e(url('/post/'.$post->slug)); ?>">View Post</a><?php /**PATH D:\xampp\htdocs\PracticeProject\resources\views/emails/post_published.blade.php ENDPATH**/ ?>
